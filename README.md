@@ -30,4 +30,5 @@ To get started with this application, follow these steps:
     Click the "Download QR Code" button to save the QR code as an image.
 
 ## Demo :
+
     https://btissame-qorchi.github.io/qr-code-generator-react/
