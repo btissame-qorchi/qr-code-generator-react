@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-code-generator-react/static/css/main.7ba8c0ff.css",
+    "main.js": "/qr-code-generator-react/static/js/main.f44ac2fb.js",
+    "static/js/453.a6a97343.chunk.js": "/qr-code-generator-react/static/js/453.a6a97343.chunk.js",
+    "index.html": "/qr-code-generator-react/index.html",
+    "main.7ba8c0ff.css.map": "/qr-code-generator-react/static/css/main.7ba8c0ff.css.map",
+    "main.f44ac2fb.js.map": "/qr-code-generator-react/static/js/main.f44ac2fb.js.map",
+    "453.a6a97343.chunk.js.map": "/qr-code-generator-react/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba8c0ff.css",
+    "static/js/main.f44ac2fb.js"
+  ]
+}
