@@ -31,4 +31,4 @@ To get started with this application, follow these steps:
 
 ## Demo :
 
-    https://btissame-qorchi.github.io/qr-code-generator-react/
+https://btissame-qorchi.github.io/qr-code-generator-react/
