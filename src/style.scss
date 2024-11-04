@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c1c;
+  .qrcode-box {
+    background-color: #333333;
+    min-width: 400px;
+    color: #ffffff;
+    padding: 25px 25px 45px;
+    h1 {
+      font-weight: 500;
+      padding-bottom: 30px;
+    }
+    input {
+      width: 100%;
+      height: 40px;
+      padding: 0 15px;
+      outline: 0;
+      color: #000000;
+    }
+    button {
+      background-color: transparent;
+      border: 1px solid #ffffff;
+      padding: 10px 20px;
+      border-radius: 50px;
+      color: #fff;
+      margin: auto;
+      display: block;
+      margin-top: 40px;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    canvas {
+      display: block;
+      margin: 40px auto 0 auto;
+    }
+  }
+}
